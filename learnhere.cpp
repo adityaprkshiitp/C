@@ -6,6 +6,6 @@ int main(){
     if((x%2)==0){
         cout<<"even\n";
     } else {
-        cout<<"odd";
+        cout<<"nhjbhjkodd";
     }
 }
