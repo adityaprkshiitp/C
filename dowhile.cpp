@@ -5,8 +5,7 @@ int main(){
     cin>>n;
 
     do{
-        cout<<n<<endl;
-        cin>>n;
-    }
+        cout<<"beep"<<endl;
+    } break;
     while(n>0);
 }
