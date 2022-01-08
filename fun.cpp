@@ -8,5 +8,5 @@ int main(){
         cout<<"beep"<<endl;
     }
     while(n>0);
-    break;
+    
 }
