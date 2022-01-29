@@ -4,10 +4,11 @@ using namespace std;
 
 int main()
 { int n;
+
   cin>>n;
 
     // Write your code here
-    if(n<9){
+    if(n<10){
         if(n==1){
             cout<<"one";
         }else if(n==2){
